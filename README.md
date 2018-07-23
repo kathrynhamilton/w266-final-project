@@ -17,6 +17,8 @@ Links to related papers, repos, and other resources we looked at:
 * layer1.json.[0-9].valid.gz - pickled and in json format 
 
 ### notebooks
+* please view the following notebooks with nbviewer by modifying the file path below:
+http://nbviewer.jupyter.org/github/kathrynhamilton/w266-final-project/blob/master/<file.ipynb>
 * 'preprocessing_json.ipynb' - we used recipes collected by MIT's PicToRecipe project. We broke the 1 million recipes into 10 parts and pickled them so we can selectively load them into panda dataframes. 
 * 'eda.ipynb' - we explored the recipes to get a sense what information they contained and in what format 
 * 'spacy_parser.ipynb' - we explored building a parser tree using spacy and NER using existing trained model
