@@ -28,7 +28,7 @@ http://nbviewer.jupyter.org/github/kathrynhamilton/w266-final-project/blob/maste
 * 'spacy_install.md' - install spaCy with conda, remember to download english language models; spacy_lookup and prodigy are added as well
 * 'explacy.py' - visualize spaCy's dependency parser results; https://github.com/tylerneylon/explacy
 
-### milestone references
+### early milestones
 
 Project proposal: https://docs.google.com/document/d/1vxy1xuW_0xpjkGAO3S1E3Jl0cB2AYbAltI0a6nj8S9A/edit
 
