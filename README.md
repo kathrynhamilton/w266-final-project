@@ -9,7 +9,7 @@
 
 ### data files
 * layer1.json.[0-9].valid.gz - pickled and in json format 
-* patterns.jsonl - boosted patterns post bootstrapping 
+* patterns.jsonl - initial seeding word lists are in the ner_playground notebook, this file stores boosted patterns post bootstrapping 
 
 ### notebooks
 * please view the following notebooks with nbviewer by modifying the file path below:
