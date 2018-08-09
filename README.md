@@ -25,5 +25,5 @@ http://nbviewer.jupyter.org/github/kathrynhamilton/w266-final-project/blob/maste
 * 'spacy_parser_alt1.ipynb' - evaluate syntatic parsing on 1st step of 10 rather simple recipes (<=5 instructional steps)
 
 ### additional scripts
-* spacy_install.md - install spaCy with conda
-* explacy.py - A small tool that EXPLains spACY parse results; https://github.com/tylerneylon/explacy
+* spacy_install.md - install spaCy with conda, remember to download english language models
+* explacy.py - visualize spaCy's dependency parser results; https://github.com/tylerneylon/explacy
