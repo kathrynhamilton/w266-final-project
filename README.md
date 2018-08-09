@@ -22,7 +22,7 @@ http://nbviewer.jupyter.org/github/kathrynhamilton/w266-final-project/blob/maste
 
 ### custom model
 * ./NER_Model - directory of model artifacts; including splitted training and evaluation data
-* 'ner_manual_train.jsonl' - fully annotated training dataset
+* 'ner_manual_train.jsonl' - fully annotated training dataset, annotations are facilitated using Prodigy web UI
 
 ### additional scripts
 * 'spacy_install.md' - install spaCy with conda, remember to download english language models; spacy_lookup and prodigy are added as well
