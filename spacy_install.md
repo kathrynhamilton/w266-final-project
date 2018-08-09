@@ -11,6 +11,13 @@ conda update -c conda-forge spacy
 
 # download english model
 python -m spacy download en
+
+# download spacy_lookup
+pip install spacy-lookup
+
+# install prodigy, note this is a paid library!
+# https://prodi.gy/buy
+pip install prodigy*.whl
 ```
 
 
