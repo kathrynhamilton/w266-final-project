@@ -1,4 +1,5 @@
-# w266 NLP - Final Project
+# w266 NLP - Final Project 
+(please do not release our report publicly)
 
 ### paper
 * https://www.overleaf.com/17863614zxfgdwycnbkq
