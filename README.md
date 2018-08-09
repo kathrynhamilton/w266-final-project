@@ -19,6 +19,10 @@ http://nbviewer.jupyter.org/github/kathrynhamilton/w266-final-project/blob/maste
 * 'spacy_parser_alt1.ipynb' - evaluate syntatic parsing on 1st step of 10 rather simple recipes (<=5 instructional steps)
 * 'ner_playground.ipynb' - let's us explore bootstrapping and named entity recognition task
 
+### custom model
+* ./NER_Model - directory of model artifacts; including splitted training and evaluation data
+* ner_manual_train.jsonl - fully annotated training dataset
+
 ### additional scripts
 * spacy_install.md - install spaCy with conda, remember to download english language models; spacy_lookup and prodigy are added as well
 * explacy.py - visualize spaCy's dependency parser results; https://github.com/tylerneylon/explacy
