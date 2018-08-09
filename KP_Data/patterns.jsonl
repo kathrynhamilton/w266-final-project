@@ -1,0 +1,949 @@
+{"label":"TOOL","pattern":[{"lower":"salad spinner"}]}
+{"label":"TOOL","pattern":[{"lower":"colander"}]}
+{"label":"TOOL","pattern":[{"lower":"trash bags"}]}
+{"label":"TOOL","pattern":[{"lower":"can opener"}]}
+{"label":"TOOL","pattern":[{"lower":"citrus juicer"}]}
+{"label":"TOOL","pattern":[{"lower":"blender"}]}
+{"label":"TOOL","pattern":[{"lower":"trash bin"}]}
+{"label":"TOOL","pattern":[{"lower":"spatula"}]}
+{"label":"TOOL","pattern":[{"lower":"grater"}]}
+{"label":"TOOL","pattern":[{"lower":"splatter guard"}]}
+{"label":"TOOL","pattern":[{"lower":"towels"}]}
+{"label":"TOOL","pattern":[{"lower":"chef knife"}]}
+{"label":"TOOL","pattern":[{"lower":"measuring spoons"}]}
+{"label":"TOOL","pattern":[{"lower":"tongs"}]}
+{"label":"TOOL","pattern":[{"lower":"ladle"}]}
+{"label":"TOOL","pattern":[{"lower":"whisk"}]}
+{"label":"TOOL","pattern":[{"lower":"trivet"}]}
+{"label":"TOOL","pattern":[{"lower":"immersion blender"}]}
+{"label":"TOOL","pattern":[{"lower":"vegetable peeler"}]}
+{"label":"TOOL","pattern":[{"lower":"kitchen scale"}]}
+{"label":"TOOL","pattern":[{"lower":"food storage containers"}]}
+{"label":"TOOL","pattern":[{"lower":"dish rack"}]}
+{"label":"TOOL","pattern":[{"lower":"bread knife"}]}
+{"label":"TOOL","pattern":[{"lower":"shears"}]}
+{"label":"TOOL","pattern":[{"lower":"thermometer"}]}
+{"label":"TOOL","pattern":[{"lower":"mixing bowls"}]}
+{"label":"TOOL","pattern":[{"lower":"cutting board"}]}
+{"label":"TOOL","pattern":[{"lower":"knife sharpener"}]}
+{"label":"TOOL","pattern":[{"lower":"potato masher"}]}
+{"label":"TOOL","pattern":[{"lower":"sponges"}]}
+{"label":"TOOL","pattern":[{"lower":"stirring spoon"}]}
+{"label":"TOOL","pattern":[{"lower":"garlic press"}]}
+{"label":"TOOL","pattern":[{"lower":"honing ceramic rod"}]}
+{"label":"TOOL","pattern":[{"lower":"chef's knife"}]}
+{"label":"TOOL","pattern":[{"lower":"paring knife"}]}
+{"label":"TOOL","pattern":[{"lower":"ice cube tray"}]}
+{"label":"TOOL","pattern":[{"lower":"heavy sponges"}]}
+{"label":"TOOL","pattern":[{"lower":"parchment paper"}]}
+{"label":"TOOL","pattern":[{"lower":"aluminum foil"}]}
+{"label":"TOOL","pattern":[{"lower":"oven mitts"}]}
+{"label":"TOOL","pattern":[{"lower":"measuring cups"}]}
+{"label":"TOOL","pattern":[{"lower":"sharpening ceramic rod"}]}
+{"label":"TOOL","pattern":[{"lower":"sifter"}]}
+{"label":"TOOL","pattern":[{"lower":"dipper"}]}
+{"label":"TOOL","pattern":[{"lower":"chopsticks"}]}
+{"label":"TOOL","pattern":[{"lower":"chopstick"}]}
+{"label":"TOOL","pattern":[{"lower":"ladles"}]}
+{"label":"TOOL","pattern":[{"lower":"muddler"}]}
+{"label":"TOOL","pattern":[{"lower":"ladel"}]}
+{"label":"TOOL","pattern":[{"lower":"spoons"}]}
+{"label":"TOOL","pattern":[{"lower":"toothpick"}]}
+{"label":"TOOL","pattern":[{"lower":"utensil"}]}
+{"label":"TOOL","pattern":[{"lower":"whisks"}]}
+{"label":"TOOL","pattern":[{"lower":"saucer"}]}
+{"label":"TOOL","pattern":[{"lower":"demitasse"}]}
+{"label":"TOOL","pattern":[{"lower":"spoon"}]}
+{"label":"TOOL","pattern":[{"lower":"bowl"}]}
+{"label":"TOOL","pattern":[{"lower":"blenders"}]}
+{"label":"TOOL","pattern":[{"lower":"juicer"}]}
+{"label":"TOOL","pattern":[{"lower":"sieve"}]}
+{"label":"TOOL","pattern":[{"lower":"shaker"}]}
+{"label":"TOOL","pattern":[{"lower":"sponge"}]}
+{"label":"TOOL","pattern":[{"lower":"cups"}]}
+{"label":"TOOL","pattern":[{"lower":"washcloth"}]}
+{"label":"TOOL","pattern":[{"lower":"washrag"}]}
+{"label":"TOOL","pattern":[{"lower":"papertowel"}]}
+{"label":"TOOL","pattern":[{"lower":"napkin"}]}
+{"label":"TOOL","pattern":[{"lower":"toweling"}]}
+{"label":"TOOL","pattern":[{"lower":"handkerchief"}]}
+{"label":"TOOL","pattern":[{"lower":"frier"}]}
+{"label":"TOOL","pattern":[{"lower":"wok"}]}
+{"label":"TOOL","pattern":[{"lower":"goblets"}]}
+{"label":"TOOL","pattern":[{"lower":"ewers"}]}
+{"label":"TOOL","pattern":[{"lower":"flagons"}]}
+{"label":"TOOL","pattern":[{"lower":"bowls"}]}
+{"label":"TOOL","pattern":[{"lower":"vases"}]}
+{"label":"TOOL","pattern":[{"lower":"waterbath"}]}
+{"label":"TOOL","pattern":[{"lower":"caldron"}]}
+{"label":"TOOL","pattern":[{"lower":"pot"}]}
+{"label":"TOOL","pattern":[{"lower":"skillets"}]}
+{"label":"TOOL","pattern":[{"lower":"enamelware"}]}
+{"label":"TOOL","pattern":[{"lower":"trivets"}]}
+{"label":"TOOL","pattern":[{"lower":"pyrex"}]}
+{"label":"TOOL","pattern":[{"lower":"utensils"}]}
+{"label":"TOOL","pattern":[{"lower":"balisong"}]}
+{"label":"TOOL","pattern":[{"lower":"knive"}]}
+{"label":"TOOL","pattern":[{"lower":"knife"}]}
+{"label":"TOOL","pattern":[{"lower":"switchblade"}]}
+{"label":"TOOL","pattern":[{"lower":"sharpener"}]}
+{"label":"TOOL","pattern":[{"lower":"griddle"}]}
+{"label":"TOOL","pattern":[{"lower":"paintbrush"}]}
+{"label":"TOOL","pattern":[{"lower":"brush"}]}
+{"label":"TOOL","pattern":[{"lower":"percolators"}]}
+{"label":"TOOL","pattern":[{"lower":"coffeepot"}]}
+{"label":"TOOL","pattern":[{"lower":"kcup"}]}
+{"label":"TOOL","pattern":[{"lower":"percolator"}]}
+{"label":"TOOL","pattern":[{"lower":"lid"}]}
+{"label":"TOOL","pattern":[{"lower":"stopper"}]}
+{"label":"TOOL","pattern":[{"lower":"overcap"}]}
+{"label":"TOOL","pattern":[{"lower":"saucepan"}]}
+{"label":"TOOL","pattern":[{"lower":"dremel"}]}
+{"label":"TOOL","pattern":[{"lower":"sawzall"}]}
+{"label":"TOOL","pattern":[{"lower":"slicers"}]}
+{"label":"TOOL","pattern":[{"lower":"hopper"}]}
+{"label":"TOOL","pattern":[{"lower":"jointer"}]}
+{"label":"TOOL","pattern":[{"lower":"mazzer"}]}
+{"label":"TOOL","pattern":[{"lower":"slicer"}]}
+{"label":"TOOL","pattern":[{"lower":"sandblaster"}]}
+{"label":"TOOL","pattern":[{"lower":"auger"}]}
+{"label":"TOOL","pattern":[{"lower":"makita"}]}
+{"label":"TOOL","pattern":[{"lower":"disperser"}]}
+{"label":"TOOL","pattern":[{"lower":"mincer"}]}
+{"label":"TOOL","pattern":[{"lower":"polisher"}]}
+{"label":"TOOL","pattern":[{"lower":"bandsaw"}]}
+{"label":"TOOL","pattern":[{"lower":"trays"}]}
+{"label":"TOOL","pattern":[{"lower":"caddy"}]}
+{"label":"TOOL","pattern":[{"lower":"stick"}]}
+{"label":"TOOL","pattern":[{"lower":"fork"}]}
+{"label":"TOOL","pattern":[{"lower":"caserole"}]}
+{"label":"TOOL","pattern":[{"lower":"crockpot"}]}
+{"label":"TOOL","pattern":[{"lower":"crock"}]}
+{"label":"TOOL","pattern":[{"lower":"nesco"}]}
+{"label":"TOOL","pattern":[{"lower":"jar"}]}
+{"label":"TOOL","pattern":[{"lower":"canners"}]}
+{"label":"TOOL","pattern":[{"lower":"phials"}]}
+{"label":"TOOL","pattern":[{"lower":"kilner"}]}
+{"label":"TOOL","pattern":[{"lower":"amphora"}]}
+{"label":"TOOL","pattern":[{"lower":"staplers"}]}
+{"label":"TOOL","pattern":[{"lower":"tweezers"}]}
+{"label":"TOOL","pattern":[{"lower":"scissors"}]}
+{"label":"TOOL","pattern":[{"lower":"hemostat"}]}
+{"label":"TOOL","pattern":[{"lower":"snips"}]}
+{"label":"TOOL","pattern":[{"lower":"crimpers"}]}
+{"label":"TOOL","pattern":[{"lower":"pruners"}]}
+{"label":"TOOL","pattern":[{"lower":"xacto"}]}
+{"label":"TOOL","pattern":[{"lower":"exacto"}]}
+{"label":"TOOL","pattern":[{"lower":"hemostats"}]}
+{"label":"TOOL","pattern":[{"lower":"scalpels"}]}
+{"label":"TOOL","pattern":[{"lower":"towles"}]}
+{"label":"TOOL","pattern":[{"lower":"linens"}]}
+{"label":"TOOL","pattern":[{"lower":"washcloths"}]}
+{"label":"TOOL","pattern":[{"lower":"hankies"}]}
+{"label":"TOOL","pattern":[{"lower":"toiletries"}]}
+{"label":"TOOL","pattern":[{"lower":"washclothes"}]}
+{"label":"TOOL","pattern":[{"lower":"potholders"}]}
+{"label":"TOOL","pattern":[{"lower":"parasols"}]}
+{"label":"TOOL","pattern":[{"lower":"dishcloths"}]}
+{"label":"TOOL","pattern":[{"lower":"mashers"}]}
+{"label":"TOOL","pattern":[{"lower":"cosies"}]}
+{"label":"TOOL","pattern":[{"lower":"steins"}]}
+{"label":"TOOL","pattern":[{"lower":"drinkware"}]}
+{"label":"TOOL","pattern":[{"lower":"stein"}]}
+{"label":"TOOL","pattern":[{"lower":"mugs"}]}
+{"label":"TOOL","pattern":[{"lower":"stix"}]}
+{"label":"TOOL","pattern":[{"lower":"crispers"}]}
+{"label":"TOOL","pattern":[{"lower":"freezer"}]}
+{"label":"TOOL","pattern":[{"lower":"ziploc"}]}
+{"label":"TOOL","pattern":[{"lower":"ziplocs"}]}
+{"label":"TOOL","pattern":[{"lower":"cellotape"}]}
+{"label":"TOOL","pattern":[{"lower":"glue"}]}
+{"label":"TOOL","pattern":[{"lower":"depressors"}]}
+{"label":"TOOL","pattern":[{"lower":"matchbooks"}]}
+{"label":"TOOL","pattern":[{"lower":"sippies"}]}
+{"label":"TOOL","pattern":[{"lower":"pipecleaners"}]}
+{"label":"TOOL","pattern":[{"lower":"stirrers"}]}
+{"label":"TOOL","pattern":[{"lower":"straws"}]}
+{"label":"TOOL","pattern":[{"lower":"spacemaker"}]}
+{"label":"TOOL","pattern":[{"lower":"sunbeam"}]}
+{"label":"TOOL","pattern":[{"lower":"cafetiere"}]}
+{"label":"TOOL","pattern":[{"lower":"breadbox"}]}
+{"label":"TOOL","pattern":[{"lower":"breadmaker"}]}
+{"label":"TOOL","pattern":[{"lower":"squeezer"}]}
+{"label":"TOOL","pattern":[{"lower":"breville"}]}
+{"label":"TOOL","pattern":[{"lower":"coffeemaker"}]}
+{"label":"TOOL","pattern":[{"lower":"botle"}]}
+{"label":"TOOL","pattern":[{"lower":"dropper"}]}
+{"label":"TOOL","pattern":[{"lower":"minibar"}]}
+{"label":"TOOL","pattern":[{"lower":"refigerator"}]}
+{"label":"TOOL","pattern":[{"lower":"refridgerators"}]}
+{"label":"TOOL","pattern":[{"lower":"refrigerator"}]}
+{"label":"TOOL","pattern":[{"lower":"refrig"}]}
+{"label":"TOOL","pattern":[{"lower":"whipper"}]}
+{"label":"TOOL","pattern":[{"lower":"mircowave"}]}
+{"label":"TOOL","pattern":[{"lower":"microwave"}]}
+{"label":"TOOL","pattern":[{"lower":"flosser"}]}
+{"label":"TOOL","pattern":[{"lower":"toothbrushes"}]}
+{"label":"TOOL","pattern":[{"lower":"toothbrush"}]}
+{"label":"TOOL","pattern":[{"lower":"aspirator"}]}
+{"label":"TOOL","pattern":[{"lower":"drippers"}]}
+{"label":"TOOL","pattern":[{"lower":"drip"}]}
+{"label":"TOOL","pattern":[{"lower":"plastics"}]}
+{"label":"TOOL","pattern":[{"lower":"plasic"}]}
+{"label":"TOOL","pattern":[{"lower":"plastic"}]}
+{"label":"TOOL","pattern":[{"lower":"hand"}]}
+{"label":"TOOL","pattern":[{"lower":"slitter"}]}
+{"label":"TOOL","pattern":[{"lower":"joiner"}]}
+{"label":"TOOL","pattern":[{"lower":"planer"}]}
+{"label":"TOOL","pattern":[{"lower":"miter"}]}
+{"label":"TOOL","pattern":[{"lower":"moulder"}]}
+{"label":"TOOL","pattern":[{"lower":"cutters"}]}
+{"label":"TOOL","pattern":[{"lower":"crimper"}]}
+{"label":"TOOL","pattern":[{"lower":"cutter"}]}
+{"label":"TOOL","pattern":[{"lower":"slotter"}]}
+{"label":"TOOL","pattern":[{"lower":"sheeter"}]}
+{"label":"TOOL","pattern":[{"lower":"mixers"}]}
+{"label":"TOOL","pattern":[{"lower":"mixer"}]}
+{"label":"TOOL","pattern":[{"lower":"griddler"}]}
+{"label":"TOOL","pattern":[{"lower":"waffler"}]}
+{"label":"TOOL","pattern":[{"lower":"teaware"}]}
+{"label":"TOOL","pattern":[{"lower":"wax"}]}
+{"label":"TOOL","pattern":[{"lower":"detergent"}]}
+{"label":"TOOL","pattern":[{"lower":"cellophane"}]}
+{"label":"TOOL","pattern":[{"lower":"mylar"}]}
+{"label":"TOOL","pattern":[{"lower":"scoville"}]}
+{"label":"TOOL","pattern":[{"lower":"cleavers"}]}
+{"label":"TOOL","pattern":[{"lower":"santoku"}]}
+{"label":"TOOL","pattern":[{"lower":"chisels"}]}
+{"label":"TOOL","pattern":[{"lower":"forschner"}]}
+{"label":"TOOL","pattern":[{"lower":"cutco"}]}
+{"label":"TOOL","pattern":[{"lower":"switchblades"}]}
+{"label":"TOOL","pattern":[{"lower":"dishes"}]}
+{"label":"TOOL","pattern":[{"lower":"stemware"}]}
+{"label":"TOOL","pattern":[{"lower":"vase"}]}
+{"label":"TOOL","pattern":[{"lower":"glassware"}]}
+{"label":"TOOL","pattern":[{"lower":"glas"}]}
+{"label":"TOOL","pattern":[{"lower":"beater"}]}
+{"label":"TOOL","pattern":[{"lower":"wisk"}]}
+{"label":"TOOL","pattern":[{"lower":"container"}]}
+{"label":"TOOL","pattern":[{"lower":"stoves"}]}
+{"label":"TOOL","pattern":[{"lower":"stove"}]}
+{"label":"TOOL","pattern":[{"lower":"fireplaces"}]}
+{"label":"TOOL","pattern":[{"lower":"fireplace"}]}
+{"label":"TOOL","pattern":[{"lower":"tinplate"}]}
+{"label":"TOOL","pattern":[{"lower":"disposer"}]}
+{"label":"TOOL","pattern":[{"lower":"electrolux"}]}
+{"label":"TOOL","pattern":[{"lower":"dishwasher"}]}
+{"label":"TOOL","pattern":[{"lower":"crockery"}]}
+{"label":"TOOL","pattern":[{"lower":"stovetops"}]}
+{"label":"TOOL","pattern":[{"lower":"dishware"}]}
+{"label":"TOOL","pattern":[{"lower":"miele"}]}
+{"label":"TOOL","pattern":[{"lower":"dishwashers"}]}
+{"label":"TOOL","pattern":[{"lower":"hotpoint"}]}
+{"label":"TOOL","pattern":[{"lower":"sprayer"}]}
+{"label":"TOOL","pattern":[{"lower":"applicator"}]}
+{"label":"TOOL","pattern":[{"lower":"frothers"}]}
+{"label":"TOOL","pattern":[{"lower":"portafilter"}]}
+{"label":"ACTION","pattern":[{"lower":"build"}]}
+{"label":"ACTION","pattern":[{"lower":"roll"}]}
+{"label":"ACTION","pattern":[{"lower":"press"}]}
+{"label":"ACTION","pattern":[{"lower":"surround"}]}
+{"label":"ACTION","pattern":[{"lower":"toss"}]}
+{"label":"ACTION","pattern":[{"lower":"correct"}]}
+{"label":"ACTION","pattern":[{"lower":"mix"}]}
+{"label":"ACTION","pattern":[{"lower":"discard"}]}
+{"label":"ACTION","pattern":[{"lower":"thin"}]}
+{"label":"ACTION","pattern":[{"lower":"melt"}]}
+{"label":"ACTION","pattern":[{"lower":"warm"}]}
+{"label":"ACTION","pattern":[{"lower":"fold"}]}
+{"label":"ACTION","pattern":[{"lower":"return"}]}
+{"label":"ACTION","pattern":[{"lower":"shave"}]}
+{"label":"ACTION","pattern":[{"lower":"spoon"}]}
+{"label":"ACTION","pattern":[{"lower":"divide"}]}
+{"label":"ACTION","pattern":[{"lower":"carve"}]}
+{"label":"ACTION","pattern":[{"lower":"stuff"}]}
+{"label":"ACTION","pattern":[{"lower":"insert"}]}
+{"label":"ACTION","pattern":[{"lower":"rrim"}]}
+{"label":"ACTION","pattern":[{"lower":"taste"}]}
+{"label":"ACTION","pattern":[{"lower":"drop"}]}
+{"label":"ACTION","pattern":[{"lower":"prepare"}]}
+{"label":"ACTION","pattern":[{"lower":"cool"}]}
+{"label":"ACTION","pattern":[{"lower":"moisten"}]}
+{"label":"ACTION","pattern":[{"lower":"sprinkle"}]}
+{"label":"ACTION","pattern":[{"lower":"skim"}]}
+{"label":"ACTION","pattern":[{"lower":"lift"}]}
+{"label":"ACTION","pattern":[{"lower":"refresh"}]}
+{"label":"ACTION","pattern":[{"lower":"scoop"}]}
+{"label":"ACTION","pattern":[{"lower":"film"}]}
+{"label":"ACTION","pattern":[{"lower":"decorate"}]}
+{"label":"ACTION","pattern":[{"lower":"pour"}]}
+{"label":"ACTION","pattern":[{"lower":"reduce"}]}
+{"label":"ACTION","pattern":[{"lower":"wilt"}]}
+{"label":"ACTION","pattern":[{"lower":"glaze"}]}
+{"label":"ACTION","pattern":[{"lower":"check"}]}
+{"label":"ACTION","pattern":[{"lower":"follow"}]}
+{"label":"ACTION","pattern":[{"lower":"pierce"}]}
+{"label":"ACTION","pattern":[{"lower":"set"}]}
+{"label":"ACTION","pattern":[{"lower":"lay"}]}
+{"label":"ACTION","pattern":[{"lower":"prick"}]}
+{"label":"ACTION","pattern":[{"lower":"strain"}]}
+{"label":"ACTION","pattern":[{"lower":"scatter"}]}
+{"label":"ACTION","pattern":[{"lower":"push"}]}
+{"label":"ACTION","pattern":[{"lower":"slide"}]}
+{"label":"ACTION","pattern":[{"lower":"beat"}]}
+{"label":"ACTION","pattern":[{"lower":"soak"}]}
+{"label":"ACTION","pattern":[{"lower":"simmer"}]}
+{"label":"ACTION","pattern":[{"lower":"scrape"}]}
+{"label":"ACTION","pattern":[{"lower":"season"}]}
+{"label":"ACTION","pattern":[{"lower":"blend"}]}
+{"label":"ACTION","pattern":[{"lower":"paint"}]}
+{"label":"ACTION","pattern":[{"lower":"tilt"}]}
+{"label":"ACTION","pattern":[{"lower":"crumple"}]}
+{"label":"ACTION","pattern":[{"lower":"cover"}]}
+{"label":"ACTION","pattern":[{"lower":"turn"}]}
+{"label":"ACTION","pattern":[{"lower":"close"}]}
+{"label":"ACTION","pattern":[{"lower":"mince"}]}
+{"label":"ACTION","pattern":[{"lower":"force"}]}
+{"label":"ACTION","pattern":[{"lower":"strew"}]}
+{"label":"ACTION","pattern":[{"lower":"bury"}]}
+{"label":"ACTION","pattern":[{"lower":"form"}]}
+{"label":"ACTION","pattern":[{"lower":"tip"}]}
+{"label":"ACTION","pattern":[{"lower":"raise"}]}
+{"label":"ACTION","pattern":[{"lower":"stir"}]}
+{"label":"ACTION","pattern":[{"lower":"pack"}]}
+{"label":"ACTION","pattern":[{"lower":"settle"}]}
+{"label":"ACTION","pattern":[{"lower":"drape"}]}
+{"label":"ACTION","pattern":[{"lower":"dry"}]}
+{"label":"ACTION","pattern":[{"lower":"saute"}]}
+{"label":"ACTION","pattern":[{"lower":"slit"}]}
+{"label":"ACTION","pattern":[{"lower":"quarter"}]}
+{"label":"ACTION","pattern":[{"lower":"brown"}]}
+{"label":"ACTION","pattern":[{"lower":"slice"}]}
+{"label":"ACTION","pattern":[{"lower":"ring"}]}
+{"label":"ACTION","pattern":[{"lower":"smear"}]}
+{"label":"ACTION","pattern":[{"lower":"scrub"}]}
+{"label":"ACTION","pattern":[{"lower":"puree"}]}
+{"label":"ACTION","pattern":[{"lower":"wrap"}]}
+{"label":"ACTION","pattern":[{"lower":"arrange"}]}
+{"label":"ACTION","pattern":[{"lower":"top"}]}
+{"label":"ACTION","pattern":[{"lower":"wind"}]}
+{"label":"ACTION","pattern":[{"lower":"pull"}]}
+{"label":"ACTION","pattern":[{"lower":"separate"}]}
+{"label":"ACTION","pattern":[{"lower":"twist"}]}
+{"label":"ACTION","pattern":[{"lower":"chop"}]}
+{"label":"ACTION","pattern":[{"lower":"mound"}]}
+{"label":"ACTION","pattern":[{"lower":"salt"}]}
+{"label":"ACTION","pattern":[{"lower":"reheat"}]}
+{"label":"ACTION","pattern":[{"lower":"roast"}]}
+{"label":"ACTION","pattern":[{"lower":"make"}]}
+{"label":"ACTION","pattern":[{"lower":"leave"}]}
+{"label":"ACTION","pattern":[{"lower":"slip"}]}
+{"label":"ACTION","pattern":[{"lower":"tie"}]}
+{"label":"ACTION","pattern":[{"lower":"baste"}]}
+{"label":"ACTION","pattern":[{"lower":"replace"}]}
+{"label":"ACTION","pattern":[{"lower":"spread"}]}
+{"label":"ACTION","pattern":[{"lower":"cut"}]}
+{"label":"ACTION","pattern":[{"lower":"open"}]}
+{"label":"ACTION","pattern":[{"lower":"pull"}]}
+{"label":"ACTION","pattern":[{"lower":"slice"}]}
+{"label":"ACTION","pattern":[{"lower":"wilt"}]}
+{"label":"ACTION","pattern":[{"lower":"shave"}]}
+{"label":"ACTION","pattern":[{"lower":"cool"}]}
+{"label":"ACTION","pattern":[{"lower":"tie"}]}
+{"label":"ACTION","pattern":[{"lower":"scrape"}]}
+{"label":"ACTION","pattern":[{"lower":"sprinkle"}]}
+{"label":"ACTION","pattern":[{"lower":"slit"}]}
+{"label":"ACTION","pattern":[{"lower":"roast"}]}
+{"label":"ACTION","pattern":[{"lower":"surround"}]}
+{"label":"ACTION","pattern":[{"lower":"replace"}]}
+{"label":"ACTION","pattern":[{"lower":"tilt"}]}
+{"label":"ACTION","pattern":[{"lower":"lay"}]}
+{"label":"ACTION","pattern":[{"lower":"film"}]}
+{"label":"ACTION","pattern":[{"lower":"roll"}]}
+{"label":"ACTION","pattern":[{"lower":"wrap"}]}
+{"label":"ACTION","pattern":[{"lower":"bury"}]}
+{"label":"ACTION","pattern":[{"lower":"saute"}]}
+{"label":"ACTION","pattern":[{"lower":"carve"}]}
+{"label":"ACTION","pattern":[{"lower":"toss"}]}
+{"label":"ACTION","pattern":[{"lower":"separate"}]}
+{"label":"ACTION","pattern":[{"lower":"crumple"}]}
+{"label":"ACTION","pattern":[{"lower":"spread"}]}
+{"label":"ACTION","pattern":[{"lower":"strain"}]}
+{"label":"ACTION","pattern":[{"lower":"mince"}]}
+{"label":"ACTION","pattern":[{"lower":"check"}]}
+{"label":"ACTION","pattern":[{"lower":"salt"}]}
+{"label":"ACTION","pattern":[{"lower":"cover"}]}
+{"label":"ACTION","pattern":[{"lower":"scoop"}]}
+{"label":"ACTION","pattern":[{"lower":"twist"}]}
+{"label":"ACTION","pattern":[{"lower":"prepare"}]}
+{"label":"ACTION","pattern":[{"lower":"refresh"}]}
+{"label":"ACTION","pattern":[{"lower":"smear"}]}
+{"label":"ACTION","pattern":[{"lower":"insert"}]}
+{"label":"ACTION","pattern":[{"lower":"settle"}]}
+{"label":"ACTION","pattern":[{"lower":"trim"}]}
+{"label":"ACTION","pattern":[{"lower":"stuff"}]}
+{"label":"ACTION","pattern":[{"lower":"brown"}]}
+{"label":"ACTION","pattern":[{"lower":"stir"}]}
+{"label":"ACTION","pattern":[{"lower":"pack"}]}
+{"label":"ACTION","pattern":[{"lower":"glaze"}]}
+{"label":"ACTION","pattern":[{"lower":"raise"}]}
+{"label":"ACTION","pattern":[{"lower":"slip"}]}
+{"label":"ACTION","pattern":[{"lower":"fold"}]}
+{"label":"ACTION","pattern":[{"lower":"discard"}]}
+{"label":"ACTION","pattern":[{"lower":"thin"}]}
+{"label":"ACTION","pattern":[{"lower":"wind"}]}
+{"label":"ACTION","pattern":[{"lower":"tip"}]}
+{"label":"ACTION","pattern":[{"lower":"correct"}]}
+{"label":"ACTION","pattern":[{"lower":"beat"}]}
+{"label":"ACTION","pattern":[{"lower":"mix"}]}
+{"label":"ACTION","pattern":[{"lower":"soak"}]}
+{"label":"ACTION","pattern":[{"lower":"turn"}]}
+{"label":"ACTION","pattern":[{"lower":"mound"}]}
+{"label":"ACTION","pattern":[{"lower":"simmer"}]}
+{"label":"ACTION","pattern":[{"lower":"blend"}]}
+{"label":"ACTION","pattern":[{"lower":"make"}]}
+{"label":"ACTION","pattern":[{"lower":"drape"}]}
+{"label":"ACTION","pattern":[{"lower":"quarter"}]}
+{"label":"ACTION","pattern":[{"lower":"open"}]}
+{"label":"ACTION","pattern":[{"lower":"reheat"}]}
+{"label":"ACTION","pattern":[{"lower":"return"}]}
+{"label":"ACTION","pattern":[{"lower":"strew"}]}
+{"label":"ACTION","pattern":[{"lower":"paint"}]}
+{"label":"ACTION","pattern":[{"lower":"set"}]}
+{"label":"ACTION","pattern":[{"lower":"prick"}]}
+{"label":"ACTION","pattern":[{"lower":"slide"}]}
+{"label":"ACTION","pattern":[{"lower":"reduce"}]}
+{"label":"ACTION","pattern":[{"lower":"moisten"}]}
+{"label":"ACTION","pattern":[{"lower":"skim"}]}
+{"label":"ACTION","pattern":[{"lower":"season"}]}
+{"label":"ACTION","pattern":[{"lower":"decorate"}]}
+{"label":"ACTION","pattern":[{"lower":"force"}]}
+{"label":"ACTION","pattern":[{"lower":"lift"}]}
+{"label":"ACTION","pattern":[{"lower":"divide"}]}
+{"label":"ACTION","pattern":[{"lower":"leave"}]}
+{"label":"ACTION","pattern":[{"lower":"close"}]}
+{"label":"ACTION","pattern":[{"lower":"ring"}]}
+{"label":"ACTION","pattern":[{"lower":"follow"}]}
+{"label":"ACTION","pattern":[{"lower":"dry"}]}
+{"label":"ACTION","pattern":[{"lower":"scrub"}]}
+{"label":"ACTION","pattern":[{"lower":"pierce"}]}
+{"label":"ACTION","pattern":[{"lower":"cut"}]}
+{"label":"ACTION","pattern":[{"lower":"scatter"}]}
+{"label":"ACTION","pattern":[{"lower":"press"}]}
+{"label":"ACTION","pattern":[{"lower":"puree"}]}
+{"label":"ACTION","pattern":[{"lower":"melt"}]}
+{"label":"ACTION","pattern":[{"lower":"form"}]}
+{"label":"ACTION","pattern":[{"lower":"spoon"}]}
+{"label":"ACTION","pattern":[{"lower":"chop"}]}
+{"label":"ACTION","pattern":[{"lower":"baste"}]}
+{"label":"ACTION","pattern":[{"lower":"arrange"}]}
+{"label":"ACTION","pattern":[{"lower":"drop"}]}
+{"label":"ACTION","pattern":[{"lower":"pour"}]}
+{"label":"ACTION","pattern":[{"lower":"taste"}]}
+{"label":"ACTION","pattern":[{"lower":"top"}]}
+{"label":"ACTION","pattern":[{"lower":"push"}]}
+{"label":"ACTION","pattern":[{"lower":"warm"}]}
+{"label":"ACTION","pattern":[{"lower":"build"}]}
+{"label":"ACTION","pattern":[{"lower":"thin"}]}
+{"label":"ACTION","pattern":[{"lower":"strain"}]}
+{"label":"ACTION","pattern":[{"lower":"drape"}]}
+{"label":"ACTION","pattern":[{"lower":"scrape"}]}
+{"label":"ACTION","pattern":[{"lower":"dry"}]}
+{"label":"ACTION","pattern":[{"lower":"soak"}]}
+{"label":"ACTION","pattern":[{"lower":"divide"}]}
+{"label":"ACTION","pattern":[{"lower":"prick"}]}
+{"label":"ACTION","pattern":[{"lower":"replace"}]}
+{"label":"ACTION","pattern":[{"lower":"tip"}]}
+{"label":"ACTION","pattern":[{"lower":"warm"}]}
+{"label":"ACTION","pattern":[{"lower":"roast"}]}
+{"label":"ACTION","pattern":[{"lower":"twist"}]}
+{"label":"ACTION","pattern":[{"lower":"discard"}]}
+{"label":"ACTION","pattern":[{"lower":"form"}]}
+{"label":"ACTION","pattern":[{"lower":"cut"}]}
+{"label":"ACTION","pattern":[{"lower":"crumple"}]}
+{"label":"ACTION","pattern":[{"lower":"spread"}]}
+{"label":"ACTION","pattern":[{"lower":"surround"}]}
+{"label":"ACTION","pattern":[{"lower":"scrub"}]}
+{"label":"ACTION","pattern":[{"lower":"skim"}]}
+{"label":"ACTION","pattern":[{"lower":"scoop"}]}
+{"label":"ACTION","pattern":[{"lower":"mound"}]}
+{"label":"ACTION","pattern":[{"lower":"follow"}]}
+{"label":"ACTION","pattern":[{"lower":"press"}]}
+{"label":"ACTION","pattern":[{"lower":"blend"}]}
+{"label":"ACTION","pattern":[{"lower":"build"}]}
+{"label":"ACTION","pattern":[{"lower":"strew"}]}
+{"label":"ACTION","pattern":[{"lower":"shave"}]}
+{"label":"ACTION","pattern":[{"lower":"refresh"}]}
+{"label":"ACTION","pattern":[{"lower":"push"}]}
+{"label":"ACTION","pattern":[{"lower":"decorate"}]}
+{"label":"ACTION","pattern":[{"lower":"slip"}]}
+{"label":"ACTION","pattern":[{"lower":"taste"}]}
+{"label":"ACTION","pattern":[{"lower":"bury"}]}
+{"label":"ACTION","pattern":[{"lower":"cool"}]}
+{"label":"ACTION","pattern":[{"lower":"fold"}]}
+{"label":"ACTION","pattern":[{"lower":"arrange"}]}
+{"label":"ACTION","pattern":[{"lower":"toss"}]}
+{"label":"ACTION","pattern":[{"lower":"pull"}]}
+{"label":"ACTION","pattern":[{"lower":"trim"}]}
+{"label":"ACTION","pattern":[{"lower":"lay"}]}
+{"label":"ACTION","pattern":[{"lower":"paint"}]}
+{"label":"ACTION","pattern":[{"lower":"prepare"}]}
+{"label":"ACTION","pattern":[{"lower":"slice"}]}
+{"label":"ACTION","pattern":[{"lower":"simmer"}]}
+{"label":"ACTION","pattern":[{"lower":"ring"}]}
+{"label":"ACTION","pattern":[{"lower":"film"}]}
+{"label":"ACTION","pattern":[{"lower":"smear"}]}
+{"label":"ACTION","pattern":[{"lower":"pack"}]}
+{"label":"ACTION","pattern":[{"lower":"tie"}]}
+{"label":"ACTION","pattern":[{"lower":"leave"}]}
+{"label":"ACTION","pattern":[{"lower":"slit"}]}
+{"label":"ACTION","pattern":[{"lower":"melt"}]}
+{"label":"ACTION","pattern":[{"lower":"close"}]}
+{"label":"ACTION","pattern":[{"lower":"reduce"}]}
+{"label":"ACTION","pattern":[{"lower":"stuff"}]}
+{"label":"ACTION","pattern":[{"lower":"glaze"}]}
+{"label":"ACTION","pattern":[{"lower":"puree"}]}
+{"label":"ACTION","pattern":[{"lower":"pour"}]}
+{"label":"ACTION","pattern":[{"lower":"roll"}]}
+{"label":"ACTION","pattern":[{"lower":"separate"}]}
+{"label":"ACTION","pattern":[{"lower":"saute"}]}
+{"label":"ACTION","pattern":[{"lower":"turn"}]}
+{"label":"ACTION","pattern":[{"lower":"mince"}]}
+{"label":"ACTION","pattern":[{"lower":"moisten"}]}
+{"label":"ACTION","pattern":[{"lower":"return"}]}
+{"label":"ACTION","pattern":[{"lower":"scatter"}]}
+{"label":"ACTION","pattern":[{"lower":"season"}]}
+{"label":"ACTION","pattern":[{"lower":"chop"}]}
+{"label":"ACTION","pattern":[{"lower":"set"}]}
+{"label":"ACTION","pattern":[{"lower":"mix"}]}
+{"label":"ACTION","pattern":[{"lower":"quarter"}]}
+{"label":"ACTION","pattern":[{"lower":"raise"}]}
+{"label":"ACTION","pattern":[{"lower":"brown"}]}
+{"label":"ACTION","pattern":[{"lower":"top"}]}
+{"label":"ACTION","pattern":[{"lower":"check"}]}
+{"label":"ACTION","pattern":[{"lower":"insert"}]}
+{"label":"ACTION","pattern":[{"lower":"carve"}]}
+{"label":"ACTION","pattern":[{"lower":"drop"}]}
+{"label":"ACTION","pattern":[{"lower":"make"}]}
+{"label":"ACTION","pattern":[{"lower":"beat"}]}
+{"label":"ACTION","pattern":[{"lower":"force"}]}
+{"label":"ACTION","pattern":[{"lower":"wrap"}]}
+{"label":"ACTION","pattern":[{"lower":"cover"}]}
+{"label":"ACTION","pattern":[{"lower":"tilt"}]}
+{"label":"ACTION","pattern":[{"lower":"pierce"}]}
+{"label":"ACTION","pattern":[{"lower":"correct"}]}
+{"label":"ACTION","pattern":[{"lower":"lift"}]}
+{"label":"ACTION","pattern":[{"lower":"wind"}]}
+{"label":"ACTION","pattern":[{"lower":"salt"}]}
+{"label":"ACTION","pattern":[{"lower":"slide"}]}
+{"label":"ACTION","pattern":[{"lower":"spoon"}]}
+{"label":"ACTION","pattern":[{"lower":"baste"}]}
+{"label":"ACTION","pattern":[{"lower":"settle"}]}
+{"label":"ACTION","pattern":[{"lower":"sprinkle"}]}
+{"label":"ACTION","pattern":[{"lower":"open"}]}
+{"label":"ACTION","pattern":[{"lower":"wilt"}]}
+{"label":"ACTION","pattern":[{"lower":"stir"}]}
+{"label":"ACTION","pattern":[{"lower":"reheat"}]}
+{"label":"ACTION","pattern":[{"lower":"scoop"}]}
+{"label":"ACTION","pattern":[{"lower":"baste"}]}
+{"label":"ACTION","pattern":[{"lower":"lay"}]}
+{"label":"ACTION","pattern":[{"lower":"scatter"}]}
+{"label":"ACTION","pattern":[{"lower":"push"}]}
+{"label":"ACTION","pattern":[{"lower":"wrap"}]}
+{"label":"ACTION","pattern":[{"lower":"surround"}]}
+{"label":"ACTION","pattern":[{"lower":"mound"}]}
+{"label":"ACTION","pattern":[{"lower":"prepare"}]}
+{"label":"ACTION","pattern":[{"lower":"make"}]}
+{"label":"ACTION","pattern":[{"lower":"set"}]}
+{"label": "INGRD", "pattern": [{"lower": "butter"}]}
+{"label": "INGRD", "pattern": [{"lower": "buttermilk"}]}
+{"label": "INGRD", "pattern": [{"lower": "butterfat"}]}
+{"label": "INGRD", "pattern": [{"lower": "casein"}]}
+{"label": "INGRD", "pattern": [{"lower": "cheese"}]}
+{"label": "INGRD", "pattern": [{"lower": "cream"}]}
+{"label": "INGRD", "pattern": [{"lower": "creamer"}]}
+{"label": "INGRD", "pattern": [{"lower": "creme"}]}
+{"label": "INGRD", "pattern": [{"lower": "curd"}]}
+{"label": "INGRD", "pattern": [{"lower": "custard"}]}
+{"label": "INGRD", "pattern": [{"lower": "dairy"}]}
+{"label": "INGRD", "pattern": [{"lower": "dulce"}]}
+{"label": "INGRD", "pattern": [{"lower": "egg"}]}
+{"label": "INGRD", "pattern": [{"lower": "eggnog"}]}
+{"label": "INGRD", "pattern": [{"lower": "gelato"}]}
+{"label": "INGRD", "pattern": [{"lower": "ghee"}]}
+{"label": "INGRD", "pattern": [{"lower": "ice cream"}]}
+{"label": "INGRD", "pattern": [{"lower": "kefir"}]}
+{"label": "INGRD", "pattern": [{"lower": "milk"}]}
+{"label": "INGRD", "pattern": [{"lower": "paneer"}]}
+{"label": "INGRD", "pattern": [{"lower": "soft serve"}]}
+{"label": "INGRD", "pattern": [{"lower": "sour cream"}]}
+{"label": "INGRD", "pattern": [{"lower": "whey"}]}
+{"label": "INGRD", "pattern": [{"lower": "whey protein"}]}
+{"label": "INGRD", "pattern": [{"lower": "whipped cream"}]}
+{"label": "INGRD", "pattern": [{"lower": "whites"}]}
+{"label": "INGRD", "pattern": [{"lower": "yogurt"}]}
+{"label": "INGRD", "pattern": [{"lower": "yolks"}]}
+{"label": "INGRD", "pattern": [{"lower": "mayonnaise"}]}
+{"label": "INGRD", "pattern": [{"lower": "mayo"}]}
+{"label": "INGRD", "pattern": [{"lower": "acai"}]}
+{"label": "INGRD", "pattern": [{"lower": "apple"}]}
+{"label": "INGRD", "pattern": [{"lower": "apples"}]}
+{"label": "INGRD", "pattern": [{"lower": "apricot"}]}
+{"label": "INGRD", "pattern": [{"lower": "apricots"}]}
+{"label": "INGRD", "pattern": [{"lower": "banana"}]}
+{"label": "INGRD", "pattern": [{"lower": "bananas"}]}
+{"label": "INGRD", "pattern": [{"lower": "berries"}]}
+{"label": "INGRD", "pattern": [{"lower": "berry"}]}
+{"label": "INGRD", "pattern": [{"lower": "blackberries"}]}
+{"label": "INGRD", "pattern": [{"lower": "blackberry"}]}
+{"label": "INGRD", "pattern": [{"lower": "blackcurrant"}]}
+{"label": "INGRD", "pattern": [{"lower": "blueberries"}]}
+{"label": "INGRD", "pattern": [{"lower": "blueberry"}]}
+{"label": "INGRD", "pattern": [{"lower": "cantaloupe"}]}
+{"label": "INGRD", "pattern": [{"lower": "cherries"}]}
+{"label": "INGRD", "pattern": [{"lower": "cherry"}]}
+{"label": "INGRD", "pattern": [{"lower": "clementine"}]}
+{"label": "INGRD", "pattern": [{"lower": "clementines"}]}
+{"label": "INGRD", "pattern": [{"lower": "coconut"}]}
+{"label": "INGRD", "pattern": [{"lower": "coconuts"}]}
+{"label": "INGRD", "pattern": [{"lower": "cranberries"}]}
+{"label": "INGRD", "pattern": [{"lower": "cranberry"}]}
+{"label": "INGRD", "pattern": [{"lower": "currant"}]}
+{"label": "INGRD", "pattern": [{"lower": "currants"}]}
+{"label": "INGRD", "pattern": [{"lower": "date"}]}
+{"label": "INGRD", "pattern": [{"lower": "dates"}]}
+{"label": "INGRD", "pattern": [{"lower": "dragonfruit"}]}
+{"label": "INGRD", "pattern": [{"lower": "fig"}]}
+{"label": "INGRD", "pattern": [{"lower": "figs"}]}
+{"label": "INGRD", "pattern": [{"lower": "fruit"}]}
+{"label": "INGRD", "pattern": [{"lower": "fruits"}]}
+{"label": "INGRD", "pattern": [{"lower": "grape"}]}
+{"label": "INGRD", "pattern": [{"lower": "grapefruit"}]}
+{"label": "INGRD", "pattern": [{"lower": "grapes"}]}
+{"label": "INGRD", "pattern": [{"lower": "guava"}]}
+{"label": "INGRD", "pattern": [{"lower": "honeydew"}]}
+{"label": "INGRD", "pattern": [{"lower": "kiwi"}]}
+{"label": "INGRD", "pattern": [{"lower": "kiwis"}]}
+{"label": "INGRD", "pattern": [{"lower": "lemon"}]}
+{"label": "INGRD", "pattern": [{"lower": "lemons"}]}
+{"label": "INGRD", "pattern": [{"lower": "lime"}]}
+{"label": "INGRD", "pattern": [{"lower": "limes"}]}
+{"label": "INGRD", "pattern": [{"lower": "lychee"}]}
+{"label": "INGRD", "pattern": [{"lower": "mandarine"}]}
+{"label": "INGRD", "pattern": [{"lower": "mandarines"}]}
+{"label": "INGRD", "pattern": [{"lower": "mango"}]}
+{"label": "INGRD", "pattern": [{"lower": "mangos"}]}
+{"label": "INGRD", "pattern": [{"lower": "melon"}]}
+{"label": "INGRD", "pattern": [{"lower": "melons"}]}
+{"label": "INGRD", "pattern": [{"lower": "nectarine"}]}
+{"label": "INGRD", "pattern": [{"lower": "nectarines"}]}
+{"label": "INGRD", "pattern": [{"lower": "olive"}]}
+{"label": "INGRD", "pattern": [{"lower": "olives"}]}
+{"label": "INGRD", "pattern": [{"lower": "orange"}]}
+{"label": "INGRD", "pattern": [{"lower": "oranges"}]}
+{"label": "INGRD", "pattern": [{"lower": "papaya"}]}
+{"label": "INGRD", "pattern": [{"lower": "papayas"}]}
+{"label": "INGRD", "pattern": [{"lower": "passionfruit"}]}
+{"label": "INGRD", "pattern": [{"lower": "peach"}]}
+{"label": "INGRD", "pattern": [{"lower": "peaches"}]}
+{"label": "INGRD", "pattern": [{"lower": "pear"}]}
+{"label": "INGRD", "pattern": [{"lower": "pears"}]}
+{"label": "INGRD", "pattern": [{"lower": "pineapple"}]}
+{"label": "INGRD", "pattern": [{"lower": "plum"}]}
+{"label": "INGRD", "pattern": [{"lower": "plums"}]}
+{"label": "INGRD", "pattern": [{"lower": "pomegranate"}]}
+{"label": "INGRD", "pattern": [{"lower": "pomelo"}]}
+{"label": "INGRD", "pattern": [{"lower": "pomelos"}]}
+{"label": "INGRD", "pattern": [{"lower": "prune"}]}
+{"label": "INGRD", "pattern": [{"lower": "prunes"}]}
+{"label": "INGRD", "pattern": [{"lower": "raisin"}]}
+{"label": "INGRD", "pattern": [{"lower": "raisins"}]}
+{"label": "INGRD", "pattern": [{"lower": "raspberries"}]}
+{"label": "INGRD", "pattern": [{"lower": "raspberry"}]}
+{"label": "INGRD", "pattern": [{"lower": "strawberries"}]}
+{"label": "INGRD", "pattern": [{"lower": "strawberry"}]}
+{"label": "INGRD", "pattern": [{"lower": "tangerine"}]}
+{"label": "INGRD", "pattern": [{"lower": "tangerines"}]}
+{"label": "INGRD", "pattern": [{"lower": "watermelon"}]}
+{"label": "INGRD", "pattern": [{"lower": "angel hair"}]}
+{"label": "INGRD", "pattern": [{"lower": "baking powder"}]}
+{"label": "INGRD", "pattern": [{"lower": "baking soda"}]}
+{"label": "INGRD", "pattern": [{"lower": "barley"}]}
+{"label": "INGRD", "pattern": [{"lower": "bread"}]}
+{"label": "INGRD", "pattern": [{"lower": "buckwheat"}]}
+{"label": "INGRD", "pattern": [{"lower": "bulgur"}]}
+{"label": "INGRD", "pattern": [{"lower": "bun"}]}
+{"label": "INGRD", "pattern": [{"lower": "buns"}]}
+{"label": "INGRD", "pattern": [{"lower": "campanelle"}]}
+{"label": "INGRD", "pattern": [{"lower": "cappelletti"}]}
+{"label": "INGRD", "pattern": [{"lower": "cereal"}]}
+{"label": "INGRD", "pattern": [{"lower": "cornmeal"}]}
+{"label": "INGRD", "pattern": [{"lower": "couscous"}]}
+{"label": "INGRD", "pattern": [{"lower": "crackers"}]}
+{"label": "INGRD", "pattern": [{"lower": "dough"}]}
+{"label": "INGRD", "pattern": [{"lower": "fettuccine"}]}
+{"label": "INGRD", "pattern": [{"lower": "flaxseed"}]}
+{"label": "INGRD", "pattern": [{"lower": "flour"}]}
+{"label": "INGRD", "pattern": [{"lower": "fusilli"}]}
+{"label": "INGRD", "pattern": [{"lower": "grain"}]}
+{"label": "INGRD", "pattern": [{"lower": "grano"}]}
+{"label": "INGRD", "pattern": [{"lower": "grits"}]}
+{"label": "INGRD", "pattern": [{"lower": "lasagna"}]}
+{"label": "INGRD", "pattern": [{"lower": "lasagne"}]}
+{"label": "INGRD", "pattern": [{"lower": "linguine"}]}
+{"label": "INGRD", "pattern": [{"lower": "loaf"}]}
+{"label": "INGRD", "pattern": [{"lower": "macaroni"}]}
+{"label": "INGRD", "pattern": [{"lower": "manicotti"}]}
+{"label": "INGRD", "pattern": [{"lower": "millet"}]}
+{"label": "INGRD", "pattern": [{"lower": "muesli"}]}
+{"label": "INGRD", "pattern": [{"lower": "muffins"}]}
+{"label": "INGRD", "pattern": [{"lower": "muffins"}]}
+{"label": "INGRD", "pattern": [{"lower": "noodle"}]}
+{"label": "INGRD", "pattern": [{"lower": "noodles"}]}
+{"label": "INGRD", "pattern": [{"lower": "oatmeal"}]}
+{"label": "INGRD", "pattern": [{"lower": "oats"}]}
+{"label": "INGRD", "pattern": [{"lower": "orzo"}]}
+{"label": "INGRD", "pattern": [{"lower": "pappardelle"}]}
+{"label": "INGRD", "pattern": [{"lower": "pasta"}]}
+{"label": "INGRD", "pattern": [{"lower": "penne"}]}
+{"label": "INGRD", "pattern": [{"lower": "pita"}]}
+{"label": "INGRD", "pattern": [{"lower": "popcorn"}]}
+{"label": "INGRD", "pattern": [{"lower": "pretzel"}]}
+{"label": "INGRD", "pattern": [{"lower": "pretzels"}]}
+{"label": "INGRD", "pattern": [{"lower": "quinoa"}]}
+{"label": "INGRD", "pattern": [{"lower": "ravioli"}]}
+{"label": "INGRD", "pattern": [{"lower": "rice"}]}
+{"label": "INGRD", "pattern": [{"lower": "rigate"}]}
+{"label": "INGRD", "pattern": [{"lower": "rigatoni"}]}
+{"label": "INGRD", "pattern": [{"lower": "rocchetti"}]}
+{"label": "INGRD", "pattern": [{"lower": "rolls"}]}
+{"label": "INGRD", "pattern": [{"lower": "rotini"}]}
+{"label": "INGRD", "pattern": [{"lower": "rye"}]}
+{"label": "INGRD", "pattern": [{"lower": "seitan"}]}
+{"label": "INGRD", "pattern": [{"lower": "shells"}]}
+{"label": "INGRD", "pattern": [{"lower": "spaghetti"}]}
+{"label": "INGRD", "pattern": [{"lower": "spelt"}]}
+{"label": "INGRD", "pattern": [{"lower": "tortellini"}]}
+{"label": "INGRD", "pattern": [{"lower": "tortilla"}]}
+{"label": "INGRD", "pattern": [{"lower": "tortillas"}]}
+{"label": "INGRD", "pattern": [{"lower": "vermicelli"}]}
+{"label": "INGRD", "pattern": [{"lower": "yeast"}]}
+{"label": "INGRD", "pattern": [{"lower": "artichoke"}]}
+{"label": "INGRD", "pattern": [{"lower": "arugula"}]}
+{"label": "INGRD", "pattern": [{"lower": "asparagus"}]}
+{"label": "INGRD", "pattern": [{"lower": "avocado"}]}
+{"label": "INGRD", "pattern": [{"lower": "bean"}]}
+{"label": "INGRD", "pattern": [{"lower": "bean sprouts"}]}
+{"label": "INGRD", "pattern": [{"lower": "beans"}]}
+{"label": "INGRD", "pattern": [{"lower": "beet"}]}
+{"label": "INGRD", "pattern": [{"lower": "beetroot"}]}
+{"label": "INGRD", "pattern": [{"lower": "beets"}]}
+{"label": "INGRD", "pattern": [{"lower": "bell pepper"}]}
+{"label": "INGRD", "pattern": [{"lower": "bell peppers"}]}
+{"label": "INGRD", "pattern": [{"lower": "bok choy"}]}
+{"label": "INGRD", "pattern": [{"lower": "broccoli"}]}
+{"label": "INGRD", "pattern": [{"lower": "brussels sprouts"}]}
+{"label": "INGRD", "pattern": [{"lower": "butter beans"}]}
+{"label": "INGRD", "pattern": [{"lower": "butternut squash"}]}
+{"label": "INGRD", "pattern": [{"lower": "cabbage"}]}
+{"label": "INGRD", "pattern": [{"lower": "carrot"}]}
+{"label": "INGRD", "pattern": [{"lower": "cauliflower"}]}
+{"label": "INGRD", "pattern": [{"lower": "ceci beans"}]}
+{"label": "INGRD", "pattern": [{"lower": "celeriac"}]}
+{"label": "INGRD", "pattern": [{"lower": "celery"}]}
+{"label": "INGRD", "pattern": [{"lower": "chamomile"}]}
+{"label": "INGRD", "pattern": [{"lower": "chard"}]}
+{"label": "INGRD", "pattern": [{"lower": "chickpea"}]}
+{"label": "INGRD", "pattern": [{"lower": "chickpeas"}]}
+{"label": "INGRD", "pattern": [{"lower": "chilis"}]}
+{"label": "INGRD", "pattern": [{"lower": "collard greens"}]}
+{"label": "INGRD", "pattern": [{"lower": "corn"}]}
+{"label": "INGRD", "pattern": [{"lower": "cucumber"}]}
+{"label": "INGRD", "pattern": [{"lower": "cucumbers"}]}
+{"label": "INGRD", "pattern": [{"lower": "dill"}]}
+{"label": "INGRD", "pattern": [{"lower": "eggplant"}]}
+{"label": "INGRD", "pattern": [{"lower": "fennel"}]}
+{"label": "INGRD", "pattern": [{"lower": "garlic"}]}
+{"label": "INGRD", "pattern": [{"lower": "greens"}]}
+{"label": "INGRD", "pattern": [{"lower": "kale"}]}
+{"label": "INGRD", "pattern": [{"lower": "leek"}]}
+{"label": "INGRD", "pattern": [{"lower": "leeks"}]}
+{"label": "INGRD", "pattern": [{"lower": "legumes"}]}
+{"label": "INGRD", "pattern": [{"lower": "lentils"}]}
+{"label": "INGRD", "pattern": [{"lower": "lettuce"}]}
+{"label": "INGRD", "pattern": [{"lower": "mushroom"}]}
+{"label": "INGRD", "pattern": [{"lower": "mushrooms"}]}
+{"label": "INGRD", "pattern": [{"lower": "onion"}]}
+{"label": "INGRD", "pattern": [{"lower": "peas"}]}
+{"label": "INGRD", "pattern": [{"lower": "peppers"}]}
+{"label": "INGRD", "pattern": [{"lower": "potato"}]}
+{"label": "INGRD", "pattern": [{"lower": "potatoes"}]}
+{"label": "INGRD", "pattern": [{"lower": "pumpkin"}]}
+{"label": "INGRD", "pattern": [{"lower": "radicchio"}]}
+{"label": "INGRD", "pattern": [{"lower": "radish"}]}
+{"label": "INGRD", "pattern": [{"lower": "radishes"}]}
+{"label": "INGRD", "pattern": [{"lower": "scallion"}]}
+{"label": "INGRD", "pattern": [{"lower": "scallions"}]}
+{"label": "INGRD", "pattern": [{"lower": "shallot"}]}
+{"label": "INGRD", "pattern": [{"lower": "shallots"}]}
+{"label": "INGRD", "pattern": [{"lower": "snap peas"}]}
+{"label": "INGRD", "pattern": [{"lower": "spinach"}]}
+{"label": "INGRD", "pattern": [{"lower": "sprouts"}]}
+{"label": "INGRD", "pattern": [{"lower": "squash"}]}
+{"label": "INGRD", "pattern": [{"lower": "tomato"}]}
+{"label": "INGRD", "pattern": [{"lower": "tomatoes"}]}
+{"label": "INGRD", "pattern": [{"lower": "turnips"}]}
+{"label": "INGRD", "pattern": [{"lower": "vegetable"}]}
+{"label": "INGRD", "pattern": [{"lower": "yam"}]}
+{"label": "INGRD", "pattern": [{"lower": "zucchini"}]}
+{"label": "INGRD", "pattern": [{"lower": "acorn"}]}
+{"label": "INGRD", "pattern": [{"lower": "aioli"}]}
+{"label": "INGRD", "pattern": [{"lower": "allspice"}]}
+{"label": "INGRD", "pattern": [{"lower": "almond"}]}
+{"label": "INGRD", "pattern": [{"lower": "almonds"}]}
+{"label": "INGRD", "pattern": [{"lower": "anise"}]}
+{"label": "INGRD", "pattern": [{"lower": "balm"}]}
+{"label": "INGRD", "pattern": [{"lower": "basil"}]}
+{"label": "INGRD", "pattern": [{"lower": "bean"}]}
+{"label": "INGRD", "pattern": [{"lower": "beans"}]}
+{"label": "INGRD", "pattern": [{"lower": "bourbon"}]}
+{"label": "INGRD", "pattern": [{"lower": "broth"}]}
+{"label": "INGRD", "pattern": [{"lower": "capers"}]}
+{"label": "INGRD", "pattern": [{"lower": "capsicum"}]}
+{"label": "INGRD", "pattern": [{"lower": "cardamom"}]}
+{"label": "INGRD", "pattern": [{"lower": "cashew"}]}
+{"label": "INGRD", "pattern": [{"lower": "cashews"}]}
+{"label": "INGRD", "pattern": [{"lower": "chestnuts"}]}
+{"label": "INGRD", "pattern": [{"lower": "chia"}]}
+{"label": "INGRD", "pattern": [{"lower": "chicory"}]}
+{"label": "INGRD", "pattern": [{"lower": "chimichurri"}]}
+{"label": "INGRD", "pattern": [{"lower": "chives"}]}
+{"label": "INGRD", "pattern": [{"lower": "chocolate"}]}
+{"label": "INGRD", "pattern": [{"lower": "chutney"}]}
+{"label": "INGRD", "pattern": [{"lower": "cilantro"}]}
+{"label": "INGRD", "pattern": [{"lower": "cinnamon"}]}
+{"label": "INGRD", "pattern": [{"lower": "clove"}]}
+{"label": "INGRD", "pattern": [{"lower": "cloves"}]}
+{"label": "INGRD", "pattern": [{"lower": "condiment"}]}
+{"label": "INGRD", "pattern": [{"lower": "condiments"}]}
+{"label": "INGRD", "pattern": [{"lower": "coriander"}]}
+{"label": "INGRD", "pattern": [{"lower": "cumin"}]}
+{"label": "INGRD", "pattern": [{"lower": "dijon"}]}
+{"label": "INGRD", "pattern": [{"lower": "dill"}]}
+{"label": "INGRD", "pattern": [{"lower": "dip"}]}
+{"label": "INGRD", "pattern": [{"lower": "dressing"}]}
+{"label": "INGRD", "pattern": [{"lower": "drizzle"}]}
+{"label": "INGRD", "pattern": [{"lower": "fats"}]}
+{"label": "INGRD", "pattern": [{"lower": "flower"}]}
+{"label": "INGRD", "pattern": [{"lower": "frosting"}]}
+{"label": "INGRD", "pattern": [{"lower": "gin"}]}
+{"label": "INGRD", "pattern": [{"lower": "ginger"}]}
+{"label": "INGRD", "pattern": [{"lower": "grease"}]}
+{"label": "INGRD", "pattern": [{"lower": "guacamole"}]}
+{"label": "INGRD", "pattern": [{"lower": "gum"}]}
+{"label": "INGRD", "pattern": [{"lower": "habanero"}]}
+{"label": "INGRD", "pattern": [{"lower": "hazelnut"}]}
+{"label": "INGRD", "pattern": [{"lower": "herb"}]}
+{"label": "INGRD", "pattern": [{"lower": "herbs"}]}
+{"label": "INGRD", "pattern": [{"lower": "hoisin"}]}
+{"label": "INGRD", "pattern": [{"lower": "honey"}]}
+{"label": "INGRD", "pattern": [{"lower": "horseradish"}]}
+{"label": "INGRD", "pattern": [{"lower": "hummus"}]}
+{"label": "INGRD", "pattern": [{"lower": "jalapeno"}]}
+{"label": "INGRD", "pattern": [{"lower": "jam"}]}
+{"label": "INGRD", "pattern": [{"lower": "jasmine"}]}
+{"label": "INGRD", "pattern": [{"lower": "jelly"}]}
+{"label": "INGRD", "pattern": [{"lower": "ketchup"}]}
+{"label": "INGRD", "pattern": [{"lower": "lard"}]}
+{"label": "INGRD", "pattern": [{"lower": "lavender"}]}
+{"label": "INGRD", "pattern": [{"lower": "leaf"}]}
+{"label": "INGRD", "pattern": [{"lower": "lemongrass"}]}
+{"label": "INGRD", "pattern": [{"lower": "licorice"}]}
+{"label": "INGRD", "pattern": [{"lower": "margarine"}]}
+{"label": "INGRD", "pattern": [{"lower": "marigold"}]}
+{"label": "INGRD", "pattern": [{"lower": "marmite"}]}
+{"label": "INGRD", "pattern": [{"lower": "mayo"}]}
+{"label": "INGRD", "pattern": [{"lower": "mint"}]}
+{"label": "INGRD", "pattern": [{"lower": "miso"}]}
+{"label": "INGRD", "pattern": [{"lower": "mix"}]}
+{"label": "INGRD", "pattern": [{"lower": "mole"}]}
+{"label": "INGRD", "pattern": [{"lower": "mustard"}]}
+{"label": "INGRD", "pattern": [{"lower": "myrtle"}]}
+{"label": "INGRD", "pattern": [{"lower": "nut"}]}
+{"label": "INGRD", "pattern": [{"lower": "nutella"}]}
+{"label": "INGRD", "pattern": [{"lower": "nutmeg"}]}
+{"label": "INGRD", "pattern": [{"lower": "nuts"}]}
+{"label": "INGRD", "pattern": [{"lower": "oil"}]}
+{"label": "INGRD", "pattern": [{"lower": "oils"}]}
+{"label": "INGRD", "pattern": [{"lower": "oregano"}]}
+{"label": "INGRD", "pattern": [{"lower": "paprika"}]}
+{"label": "INGRD", "pattern": [{"lower": "parsley"}]}
+{"label": "INGRD", "pattern": [{"lower": "peanut"}]}
+{"label": "INGRD", "pattern": [{"lower": "peanuts"}]}
+{"label": "INGRD", "pattern": [{"lower": "pecan"}]}
+{"label": "INGRD", "pattern": [{"lower": "pecans"}]}
+{"label": "INGRD", "pattern": [{"lower": "pepper"}]}
+{"label": "INGRD", "pattern": [{"lower": "peppermint"}]}
+{"label": "INGRD", "pattern": [{"lower": "pesto"}]}
+{"label": "INGRD", "pattern": [{"lower": "pickle"}]}
+{"label": "INGRD", "pattern": [{"lower": "pickles"}]}
+{"label": "INGRD", "pattern": [{"lower": "pico de gallo"}]}
+{"label": "INGRD", "pattern": [{"lower": "pistachio"}]}
+{"label": "INGRD", "pattern": [{"lower": "pistachios"}]}
+{"label": "INGRD", "pattern": [{"lower": "poppy"}]}
+{"label": "INGRD", "pattern": [{"lower": "powder"}]}
+{"label": "INGRD", "pattern": [{"lower": "preserves"}]}
+{"label": "INGRD", "pattern": [{"lower": "reduction"}]}
+{"label": "INGRD", "pattern": [{"lower": "relish"}]}
+{"label": "INGRD", "pattern": [{"lower": "root"}]}
+{"label": "INGRD", "pattern": [{"lower": "rosemary"}]}
+{"label": "INGRD", "pattern": [{"lower": "rum"}]}
+{"label": "INGRD", "pattern": [{"lower": "safflower"}]}
+{"label": "INGRD", "pattern": [{"lower": "saffron"}]}
+{"label": "INGRD", "pattern": [{"lower": "sage"}]}
+{"label": "INGRD", "pattern": [{"lower": "salsa"}]}
+{"label": "INGRD", "pattern": [{"lower": "salt"}]}
+{"label": "INGRD", "pattern": [{"lower": "sassafras"}]}
+{"label": "INGRD", "pattern": [{"lower": "sauce"}]}
+{"label": "INGRD", "pattern": [{"lower": "sauerkraut"}]}
+{"label": "INGRD", "pattern": [{"lower": "seasoning"}]}
+{"label": "INGRD", "pattern": [{"lower": "seasonings"}]}
+{"label": "INGRD", "pattern": [{"lower": "seed"}]}
+{"label": "INGRD", "pattern": [{"lower": "seeds"}]}
+{"label": "INGRD", "pattern": [{"lower": "sesame"}]}
+{"label": "INGRD", "pattern": [{"lower": "shiso"}]}
+{"label": "INGRD", "pattern": [{"lower": "shortening"}]}
+{"label": "INGRD", "pattern": [{"lower": "spearmint"}]}
+{"label": "INGRD", "pattern": [{"lower": "spice"}]}
+{"label": "INGRD", "pattern": [{"lower": "spices"}]}
+{"label": "INGRD", "pattern": [{"lower": "spread"}]}
+{"label": "INGRD", "pattern": [{"lower": "sriracha"}]}
+{"label": "INGRD", "pattern": [{"lower": "sugar"}]}
+{"label": "INGRD", "pattern": [{"lower": "sunflower"}]}
+{"label": "INGRD", "pattern": [{"lower": "syrup"}]}
+{"label": "INGRD", "pattern": [{"lower": "tabasco"}]}
+{"label": "INGRD", "pattern": [{"lower": "tahini"}]}
+{"label": "INGRD", "pattern": [{"lower": "tarragon"}]}
+{"label": "INGRD", "pattern": [{"lower": "tartar"}]}
+{"label": "INGRD", "pattern": [{"lower": "thyme"}]}
+{"label": "INGRD", "pattern": [{"lower": "tomato sauce"}]}
+{"label": "INGRD", "pattern": [{"lower": "turmeric"}]}
+{"label": "INGRD", "pattern": [{"lower": "tzatziki"}]}
+{"label": "INGRD", "pattern": [{"lower": "tzatzki"}]}
+{"label": "INGRD", "pattern": [{"lower": "vanilla"}]}
+{"label": "INGRD", "pattern": [{"lower": "vegemite"}]}
+{"label": "INGRD", "pattern": [{"lower": "vinegar"}]}
+{"label": "INGRD", "pattern": [{"lower": "vodka"}]}
+{"label": "INGRD", "pattern": [{"lower": "walnut"}]}
+{"label": "INGRD", "pattern": [{"lower": "walnuts"}]}
+{"label": "INGRD", "pattern": [{"lower": "wasabi"}]}
+{"label": "INGRD", "pattern": [{"lower": "water"}]}
+{"label": "INGRD", "pattern": [{"lower": "whisky"}]}
+{"label": "INGRD", "pattern": [{"lower": "wine"}]}
+{"label": "INGRD", "pattern": [{"lower": "wintergreen"}]}
+{"label": "INGRD", "pattern": [{"lower": "yeast"}]}
+{"label": "INGRD", "pattern": [{"lower": "zest"}]}
+{"label": "INGRD", "pattern": [{"lower": "ingredient"}]}
+{"label": "INGRD", "pattern": [{"lower": "ingredients"}]}
+{"label": "INGRD", "pattern": [{"lower": "lemon juice"}]}
+{"label": "INGRD", "pattern": [{"lower": "salad"}]}
