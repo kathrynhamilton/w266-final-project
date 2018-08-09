@@ -4,7 +4,7 @@
 conda update -n base conda
 
 # install spacy
-conda install -c conda-forge spacy
+conda install -c conda-forge spacy=2.0.11
 
 # update spacy
 conda update -c conda-forge spacy
