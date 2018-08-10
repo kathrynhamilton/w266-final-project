@@ -2,9 +2,11 @@
 (please do not release our report publicly)
 
 ### paper
+* 'Food Recipe Processing & Entity Recognition.pdf'
 * https://www.overleaf.com/17863614zxfgdwycnbkq
 
 ### slides
+* 'Presentation Slides.pdf'
 * https://docs.google.com/presentation/d/1gzrug2b9f24UqS0a-X-I-n__R9nA4UIOofjTO9SSH0c/edit?usp=sharing
 
 ### data files
